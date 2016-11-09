@@ -39,6 +39,8 @@
       "sticky-kit": "~1.1.2",
       "mjolnic-bootstrap-colorpicker": "~2.2.0",
       "smalot-bootstrap-datetimepicker": "~2.3.4",
-      "ckeditor-codemirror": "http://download.ckeditor.com/codemirror/releases/codemirror_1.13.zip"
+      "ckeditor-codemirror": "http://download.ckeditor.com/codemirror/releases/codemirror_1.13.zip",
+      "elfinder": "https://github.com/Studio-42/elFinder/archive/2.1.16.zip",
+      "libreicons": "https://github.com/StudioJunkyard/LibreICONS/archive/v3.zip"
   }
 }
