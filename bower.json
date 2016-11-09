@@ -20,7 +20,7 @@
   "dependencies": {
       "checkall": "https://github.com/markgx/jquery-check-all.git",
       "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.2.0/chosen_v1.2.0.zip",
-      "finder": "https://github.com/gita/finder/releases/download/v0.2.0/finder.zip",
+      "finder": "https://github.com/drafterbit/finder/releases/download/v0.2.0/finder.zip",
       "nestedSortable": "https://github.com/ilikenwf/nestedSortable/archive/v2.0.0.zip",
       "qs": "https://github.com/ljharb/qs/archive/v5.2.0.zip",
       "bootstrap-sass": "~3.3.5",

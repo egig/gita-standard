@@ -32,8 +32,9 @@
         "sonata-project/intl-bundle": "dev-master",
         "gregwar/image": "2.0.*",
         "cogpowered/finediff": "0.3.*",
-        "gita/gita": "dev-develop"
+        "egig/gita": "dev-develop"
     },
+    "minimum-stability": "dev",
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
         "symfony/phpunit-bridge": "^2.7",
