@@ -1,5 +1,5 @@
 {
-    "name": "drafterbit/drafterbit-standard",
+    "name": "gita/gita-standard",
     "license": "proprietary",
     "type": "project",
     "autoload": {
@@ -32,7 +32,7 @@
         "sonata-project/intl-bundle": "dev-master",
         "gregwar/image": "2.0.*",
         "cogpowered/finediff": "0.3.*",
-        "drafterbit/drafterbit": "dev-develop"
+        "gita/gita": "dev-develop"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",

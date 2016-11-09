@@ -825,16 +825,16 @@
             "time": "2016-01-05 21:34:58"
         },
         {
-            "name": "drafterbit/drafterbit",
+            "name": "gita/gita",
             "version": "dev-develop",
             "source": {
                 "type": "git",
-                "url": "https://github.com/drafterbit/drafterbit.git",
+                "url": "https://github.com/gita/gita.git",
                 "reference": "676ab2b9d9025916a8bb7bd96ba6f6d3db1dc0e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drafterbit/drafterbit/zipball/676ab2b9d9025916a8bb7bd96ba6f6d3db1dc0e0",
+                "url": "https://api.github.com/repos/gita/gita/zipball/676ab2b9d9025916a8bb7bd96ba6f6d3db1dc0e0",
                 "reference": "676ab2b9d9025916a8bb7bd96ba6f6d3db1dc0e0",
                 "shasum": ""
             },
@@ -863,7 +863,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "drafterbit\\": "src/"
+                    "gita\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -2540,7 +2540,7 @@
     "stability-flags": {
         "friendsofsymfony/user-bundle": 20,
         "sonata-project/intl-bundle": 20,
-        "drafterbit/drafterbit": 20
+        "gita/gita": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

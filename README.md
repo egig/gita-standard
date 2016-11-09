@@ -1,2 +1,2 @@
-# drafterbit-standard
-Drafterbit standard installation
+# gita-standard
+Gita standard installation
