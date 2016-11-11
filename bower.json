@@ -20,7 +20,6 @@
   "dependencies": {
       "checkall": "https://github.com/markgx/jquery-check-all.git",
       "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.2.0/chosen_v1.2.0.zip",
-      "finder": "https://github.com/drafterbit/finder/releases/download/v0.2.0/finder.zip",
       "nestedSortable": "https://github.com/ilikenwf/nestedSortable/archive/v2.0.0.zip",
       "qs": "https://github.com/ljharb/qs/archive/v5.2.0.zip",
       "bootstrap-sass": "~3.3.5",
@@ -41,6 +40,7 @@
       "smalot-bootstrap-datetimepicker": "~2.3.4",
       "ckeditor-codemirror": "http://download.ckeditor.com/codemirror/releases/codemirror_1.13.zip",
       "elfinder": "https://github.com/Studio-42/elFinder/archive/2.1.16.zip",
-      "libreicons": "https://github.com/StudioJunkyard/LibreICONS/archive/v3.zip"
+      "libreicons": "https://github.com/StudioJunkyard/LibreICONS/archive/v3.zip",
+      "adminlte": "https://github.com/egig/adminlte-dist/archive/v2.3.8.zip"
   }
 }
