@@ -1,5 +1,6 @@
 core:
     navigation:
         dashboard:
+            icon: dashboard
             label: Dashboard
             route: dt_system_dashboard
