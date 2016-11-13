@@ -32,7 +32,8 @@
         "sonata-project/intl-bundle": "dev-master",
         "gregwar/image": "2.0.*",
         "cogpowered/finediff": "0.3.*",
-        "egig/gita": "dev-develop"
+        "egig/gita": "dev-develop",
+        "knplabs/knp-menu-bundle": "^2.0"
     },
     "minimum-stability": "dev",
     "require-dev": {
